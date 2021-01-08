@@ -9,11 +9,11 @@ sites:
   - name: kennel
     url: https://k.cedmax.net/ghost
   - name: redthreads admin
-    url: https://admin.redthreads/
+    url: https://admin.redthreads/ghost
   - name: edamiani
-    url: https://notes.emanueladamiani.com
+    url: https://notes.emanueladamiani.com/
   - name: trashme.me
-    url: https://trashme.me
+    url: https://trashme.me/
   - name: graphtv
     url: https://graphtv.dsgn.it/
   - name: baas
