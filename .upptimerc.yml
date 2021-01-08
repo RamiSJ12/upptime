@@ -5,8 +5,19 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: cedmax.net
-    url: https://cedmax.net
-
+    url: https://cedmax.net/ghost
+  - name: kennel
+    url: https://k.cedmax.net/ghost
+  - name: edamiani
+    url: https://notes.emanueladamiani.com
+  - name: trashme.me
+    url: https://trashme.me
+  - name: graphtv
+    url: https://graphtv.dsgn.it/
+  - name: baas
+    url: https://baas.dsgn.it/
+    
+    
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
