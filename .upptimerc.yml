@@ -9,7 +9,7 @@ sites:
   - name: kennel
     url: https://k.cedmax.net/ghost
   - name: redthreads admin
-    url: https://admin.redthreads/ghost
+    url: https://admin.redthreads.net/ghost
   - name: edamiani
     url: https://notes.emanueladamiani.com/
   - name: trashme.me
