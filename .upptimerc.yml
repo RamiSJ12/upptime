@@ -8,6 +8,8 @@ sites:
     url: https://cedmax.net/ghost
   - name: kennel
     url: https://k.cedmax.net/ghost
+  - name: redthreads admin
+    url: https://admin.redthreads/
   - name: edamiani
     url: https://notes.emanueladamiani.com
   - name: trashme.me
