@@ -1,7 +1,7 @@
 url: https://baas.dsgn.it/
-status: down
-code: 502
-responseTime: 553
-lastUpdated: 2021-09-16T19:55:39.598Z
+status: up
+code: 200
+responseTime: 494
+lastUpdated: 2021-09-16T20:08:40.666Z
 startTime: Fri Jan 08 2021 15:08:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
