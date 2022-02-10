@@ -1,7 +1,7 @@
 url: https://cedmax.net/ghost
-status: up
-code: 200
-responseTime: 1120
-lastUpdated: 2022-02-10T03:25:07.154Z
+status: down
+code: 403
+responseTime: 298
+lastUpdated: 2022-02-10T04:37:21.981Z
 startTime: Fri Jan 08 2021 14:25:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
