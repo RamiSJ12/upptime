@@ -31,14 +31,14 @@
     "url": "https://k.cedmax.net/ghost",
     "icon": "https://favicons.githubusercontent.com/k.cedmax.net",
     "slug": "kennel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.38%",
-    "uptimeDay": "59.60%",
+    "uptimeDay": "60.44%",
     "uptimeWeek": "64.54%",
-    "uptimeMonth": "91.72%",
+    "uptimeMonth": "91.76%",
     "uptimeYear": "99.31%",
     "time": 743,
-    "timeDay": 682,
+    "timeDay": 681,
     "timeWeek": 635,
     "timeMonth": 620,
     "timeYear": 736,
@@ -50,7 +50,7 @@
       "2022-02-13": 600,
       "2022-02-12": 568,
       "2022-02-11": 619,
-      "2022-02-10": 308
+      "2022-02-10": 292
     }
   },
   {
