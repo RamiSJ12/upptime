@@ -4,14 +4,14 @@
     "url": "https://cedmax.net/ghost",
     "icon": "https://favicons.githubusercontent.com/cedmax.net",
     "slug": "cedmax-net",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "25.65%",
-    "uptimeWeek": "55.62%",
-    "uptimeMonth": "89.79%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "26.19%",
+    "uptimeWeek": "55.94%",
+    "uptimeMonth": "89.86%",
     "uptimeYear": "99.15%",
     "time": 769,
-    "timeDay": 592,
+    "timeDay": 588,
     "timeWeek": 604,
     "timeMonth": 607,
     "timeYear": 749,
@@ -22,7 +22,7 @@
       "2022-02-18": 670,
       "2022-02-17": 503,
       "2022-02-16": 407,
-      "2022-02-15": 358
+      "2022-02-15": 326
     }
   },
   {
@@ -30,15 +30,15 @@
     "url": "https://k.cedmax.net/ghost",
     "icon": "https://favicons.githubusercontent.com/k.cedmax.net",
     "slug": "kennel",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "33.57%",
-    "uptimeWeek": "54.89%",
-    "uptimeMonth": "89.62%",
-    "uptimeYear": "99.13%",
-    "time": 726,
-    "timeDay": 585,
-    "timeWeek": 619,
+    "uptimeDay": "34.11%",
+    "uptimeWeek": "55.20%",
+    "uptimeMonth": "89.69%",
+    "uptimeYear": "99.14%",
+    "time": 725,
+    "timeDay": 578,
+    "timeWeek": 618,
     "timeMonth": 615,
     "timeYear": 719,
     "dailyMinutesDown": {
@@ -49,7 +49,7 @@
       "2022-02-17": 631,
       "2022-02-16": 339,
       "2022-02-15": 407,
-      "2022-02-14": 42
+      "2022-02-14": 11
     }
   },
   {
