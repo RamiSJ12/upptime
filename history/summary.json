@@ -4,15 +4,15 @@
     "url": "https://cedmax.net/ghost",
     "icon": "https://favicons.githubusercontent.com/cedmax.net",
     "slug": "cedmax-net",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "65.93%",
-    "uptimeWeek": "54.18%",
-    "uptimeMonth": "89.46%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "65.92%",
+    "uptimeWeek": "54.76%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "99.13%",
     "time": 726,
-    "timeDay": 625,
-    "timeWeek": 611,
+    "timeDay": 622,
+    "timeWeek": 610,
     "timeMonth": 607,
     "timeYear": 709,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2022-03-02": 998,
       "2022-03-01": 784,
       "2022-02-28": 1004,
-      "2022-02-27": 444
+      "2022-02-27": 385
     }
   },
   {
@@ -37,9 +37,9 @@
     "uptimeMonth": "88.18%",
     "uptimeYear": "99.02%",
     "time": 747,
-    "timeDay": 872,
+    "timeDay": 841,
     "timeWeek": 837,
-    "timeMonth": 689,
+    "timeMonth": 688,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2022-03-05": 102,
